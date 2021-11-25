@@ -30,8 +30,8 @@ export default [
   {
     id: 5,
     name: "Jane Doe",
-    job: "janitor",
-    img: "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/03/28/Local-Politics/Images/Supreme_Court_Gorsuch_Moments_22084-70c71-0668.jpg?t=20170517",
+    job: "intern",
+    img: "https://image.freepik.com/free-photo/portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg",
     text: "Lorem Ipsum ly unchangedd in the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker ",
   },
 ];

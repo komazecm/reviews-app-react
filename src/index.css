@@ -50,6 +50,7 @@ img {
   font-family: 'Courier New', Courier, monospace;
   color:rgb(7, 54, 40);
   max-width: 70vh;
+  height: 60vh;
   text-align: center;
   box-shadow: 1px 1px 10px 1px rgb(7, 54, 40);
   border-radius: 3px;
